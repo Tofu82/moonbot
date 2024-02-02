@@ -28,4 +28,4 @@ Press "reset token" and there you have your token, be sure to remember it and do
 - kylianxdev:  [Purge feature](https://github.com/kylianxdev/discord-purgemessages)
 
 ## License
-License can be found at [LICENSE](main/LICENSE)
+License can be found at [LICENSE](LICENSE)
