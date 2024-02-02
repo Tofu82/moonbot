@@ -27,5 +27,5 @@ Credits
 **walker38552** - [Rolimons API](https://pypi.org/project/rolimons/)
 **kylianxdev** - [Purge feature](https://github.com/kylianxdev/discord-purgemessages)
 
-###License
+License
 License can be found at [LICENSE](main/LICENSE)
