@@ -1,4 +1,4 @@
-# ![Rolimons Logo](Assets/Rolimon's_Logo.png)Simple Rolimons Bot
+# Simple Rolimons Bot
 An open-source alternative to [Rolimons' official bot](https://www.rolimons.com/discordbots)
 
 ## Features
