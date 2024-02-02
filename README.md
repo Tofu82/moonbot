@@ -1,7 +1,7 @@
 #Simple Rolimons Bot
 An open-source alternative to [Rolimons' official bot](https://www.rolimons.com/discordbots)
 
-##**Features**
+##Features
 - Check a roblox user's value with /value
 - Check a roblox user's RAP (recent average price) with /rap
 - Check a roblox user's RAP and value with /user
@@ -27,5 +27,5 @@ Press "reset token" and there you have your token, be sure to remember it and do
 **walker38552** - [Rolimons API](https://pypi.org/project/rolimons/)
 **kylianxdev** - [Purge feature](https://github.com/kylianxdev/discord-purgemessages)
 
-##License
+###License
 License can be found at [LICENSE](main/LICENSE)
