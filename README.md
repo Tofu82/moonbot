@@ -23,9 +23,9 @@ Go to your application you made and then press the "Bot" with a 🧩 logo
 Press "reset token" and there you have your token, be sure to remember it and don't share it with others!
 
 ## Credits
--**Tofu** - Scripting
--**walker38552** - [Rolimons API](https://pypi.org/project/rolimons/)
--**kylianxdev** - [Purge feature](https://github.com/kylianxdev/discord-purgemessages)
+-**Tofu**: Scripting
+-**walker38552**: [Rolimons API](https://pypi.org/project/rolimons/)
+-**kylianxdev**:  [Purge feature](https://github.com/kylianxdev/discord-purgemessages)
 
 ## License
 License can be found at [LICENSE](main/LICENSE)
