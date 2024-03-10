@@ -5,7 +5,7 @@ An open-source alternative to [Rolimons' official bot](https://www.rolimons.com/
 - Check a roblox user's value with /value
 - Check a roblox user's RAP (recent average price) with /rap
 - Check a roblox user's RAP, value and rank on leaderboard /user
-- Check top 10 players on [rolimons leaderboard](https://www.rolimons.com/leaderboard)
+- Check top 10 players on the [rolimons leaderboard](https://www.rolimons.com/leaderboard)
 - Purge chat of messages with !purge
 
 ## How to use
