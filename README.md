@@ -1,4 +1,5 @@
-# Moonbot
+# ![moonbotlogo](https://github.com/Tofu42O/rolimonsbot/assets/153694969/901bf9c2-2dfe-43b9-8a3b-5e0a1cc54d32) Moonbot
+
 An open-source alternative to [Rolimons' official bot](https://www.rolimons.com/discordbots)
 
 ## Features
