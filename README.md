@@ -1,4 +1,4 @@
-# Simple Rolimons Bot
+# Moonbot
 An open-source alternative to [Rolimons' official bot](https://www.rolimons.com/discordbots)
 
 ## Features
